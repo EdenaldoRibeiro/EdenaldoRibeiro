@@ -6,7 +6,7 @@ Eu sou o Edenaldo Ribeiro, sou um programador Front End, Atualmente estou aprend
 
         -HTML
         -CSS
-        -iniciando o aprendizado em JavaScript e React
+        - JavaScript e iniciando o aprendizado em Node
 
 
 
