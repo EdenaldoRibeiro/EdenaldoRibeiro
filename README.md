@@ -4,9 +4,10 @@ Eu sou o Edenaldo Ribeiro, sou um programador Front End, Atualmente estou aprend
 <br>
 <br>
 
-        -HTML
-        -CSS
-        - JavaScript e iniciando o aprendizado em Node
+        - HTML
+        - CSS
+        - JavaScript 
+        - Node
 
 
 
